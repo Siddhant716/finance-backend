@@ -10,9 +10,22 @@ This is a Node.js/Express/MongoDB backend for a personal finance tracker. It all
 - (Admin) View all users with their expenses and totals
 
 ---
+## LOGIN CREDENTIAL
+Email: test4@test.com
+Password: 123456
+
+## Create Your Own Account
+
+Any username of your choice
+An email address containing @test.com
+Password: 1234567
+
+## Admin Login Credentials
+
+Email: admin@test.com
+Password: 1234567
 
 ## Models
-
 ### User
 - `name`: String
 - `email`: String (unique)
